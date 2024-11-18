@@ -14,8 +14,8 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepay-airdrop-bot.git
-    cd nodepay-airdrop-bot
+    git clone https://github.com/IKSANNURPADILLAH/nodepay.git
+    cd nodepay
     ```
 
 2. Install the dependencies:
@@ -33,7 +33,7 @@ Before running the bot, you need to set up your configuration:
 To get your Bearer token:
 
 1. **Register for a Nodepay account**:
-   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=CsjPgXtsXwrq9Yv) and sign up for an account.
 
 2. **Get your token**:
    - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
@@ -113,14 +113,5 @@ The bot will log all activity, including:
 
 Logs are stored in `bot.log` and can also be seen in the console.
 
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Thanks to:
+https://github.com/dante4rt
