@@ -1,5 +1,5 @@
 {
-  "name": "nodepay-airdrop-bot",
+  "name": "nodepay",
   "version": "1.0.0",
   "description": "A bot for automating Nodepay airdrop interactions, including session management and pinging with proxy support.",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "Ping",
     "Crypto"
   ],
-  "author": "dante4rt",
+  "author": "IKSANNURPADILLAH",
   "license": "MIT",
   "dependencies": {
     "axios": "^1.7.7",
